@@ -101,18 +101,18 @@ mapMobileCenterCoordinates: "34.995063, 135.739614"
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
