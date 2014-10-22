@@ -111,20 +111,20 @@ partnersTitle: "Partners"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/116129315311979954039", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=gdgkyoto", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://sites.google.com/a/kyoto-gtug.org/home/", text: "GDG Kyoto"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgkyoto@kyoto-gtug.org", text: "GDG Kyoto"}
  -
   title: "FAQ"
   links:
@@ -136,7 +136,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+#showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
