@@ -76,10 +76,10 @@ statisticBlock:
 # latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 6
-#rockstarSpeakersTitle: "Rockstar speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
