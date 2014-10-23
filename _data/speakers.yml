@@ -5,7 +5,8 @@
   company: "GDG Kyoto"
   title: "GDG Kyoto Staff"
   bio: "Speaker of Polymer."
-  thumbnailUrl: Ochi.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Ochi.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
