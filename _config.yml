@@ -58,7 +58,7 @@ heroButtons:
  - {link: "http://goo.gl/gs1X7j", text: "Reagistration"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG DevFest Kyoto 2014"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Google related event in Kyoto crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
