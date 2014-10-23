@@ -44,9 +44,9 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/gs1X7j", text: "Resistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Resistration"}
 rightNavigationButtons:
- - {link: "http://goo.gl/gs1X7j", text: "Resistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Resistration"}
 
 # Hero Block
 heroImage: "hero.jpg"
