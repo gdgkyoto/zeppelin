@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Kyoto", description: "GDG Kyoto - Open and volunteer geek community", link: "https://sites.google.com/a/kyoto-gtug.org/home/", imageUrl: "gdg-Kyoto.svg"}
+    - {name: "GDG Kyoto", description: "GDG Kyoto - Open and volunteer geek community", link: "https://sites.google.com/a/kyoto-gtug.org/home/", imageUrl: "gdg-kyoto.svg"}
 - 
   group: "Co-organizers"
   elements: 
