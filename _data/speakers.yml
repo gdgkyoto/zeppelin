@@ -17,7 +17,8 @@
   company: "GDG Tyugoku"
   title: "GDG Tyugoku Manager"
   bio: 'Speaker of Go'
-  thumbnailUrl: Yokoyama.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Yokoyama.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TakashiYokoyama/"}
@@ -28,7 +29,8 @@
   company: "GDG Kobe"
   title: "GDG Kobe Staff"
   bio: "Speaker of Go."
-  thumbnailUrl: Noda.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Noda.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/100418617468747340299/"}
@@ -39,7 +41,8 @@
   company: ""
   title: ""
   bio: "GDG Kobe Staff"
-  thumbnailUrl: Pasta-K.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Pasta-K.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com//"}
@@ -51,7 +54,8 @@
   company: "KyotoGAS"
   title: "KyotoGAS"
   bio: "Speaker of KyotoGAS."
-  thumbnailUrl: Kusaka.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Kusaka.jpg
   rockstar: true
   ribbon:social: 
     - {name: "google-plus", link: "https://google.com/"}
@@ -63,7 +67,8 @@
   company: "KyotoGAS"
   title: "KyotoGAS"
   bio: "Speaker of KyotoGAS."
-  thumbnailUrl: Yamamoto.jpg
+  thumbnailUrl: Speakers.png
+  #thumbnailUrl: Yamamoto.jpg
   rockstar: true
   ribbon:social: 
     - {name: "google-plus", link: "https://google.com/"}
