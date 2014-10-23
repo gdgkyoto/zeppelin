@@ -82,18 +82,11 @@ rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-<<<<<<< HEAD
 locationBlockTitle: "Location"
-eventLocationName: "‹ž“sƒŠƒT[ƒ`ƒp[ƒN"
-eventLocationLink: "http://www.krp.co.jp/"
-eventStreetAddress: "‹ž“sŽs‰º‹ž‹æ’†“°Ž›“ì’¬134"
-=======
-locationBlockTitle: "Location - ä¼šå ´"
 eventLocationName: "äº¬éƒ½ãƒªã‚µãƒ¼ãƒãƒ‘ãƒ¼ã‚¯"
 eventLocationLink: "http://www.krp.co.jp/"
 eventStreetAddress: "äº¬éƒ½å¸‚ä¸‹äº¬åŒºä¸­å ‚å¯ºå—ç”º134"
->>>>>>> FETCH_HEAD
-eventAddressLocality: "Kyoto"
+eventAddressLocality: "äº¬éƒ½åºœ"
 eventAddressLocalityRegion: "Kyoto"
 eventPostalCode: ""
 eventAddressCountry: "Japan"
