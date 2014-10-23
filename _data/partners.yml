@@ -6,7 +6,7 @@
 - 
   group: "Support of"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.co.jp", imageUrl: "google.svg", width: "120px"}
+    - {name: "Google", description: "Google", link: "", imageUrl: "google.svg", width: "120px"}
     - {name: "GDG Kyoto", description: "GDG Kyoto - Open and volunteer geek community", link: "https://sites.google.com/a/kyoto-gtug.org/home/", imageUrl: "gdg-Kyoto.svg", width: "120px"}
     - {name: "KyotoGAS", description: "KyotoGAS - Open and volunteer geek community", link: "", imageUrl: "KyotoGAS.svg", width: "120px"}
     - {name: "KRP", description: "Kyoto Research Park", link: "http://www.krp.co.jp/", imageUrl: "KRP.svg", width: "120px"}
