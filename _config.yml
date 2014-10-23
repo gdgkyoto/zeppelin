@@ -44,9 +44,9 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/gs1X7j", text: "å‚åŠ ç™»éŒ² - Resistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "Q‰Á“o˜^ - Resistration"}
 rightNavigationButtons:
- - {link: "http://goo.gl/gs1X7j", text: "å‚åŠ ç™»éŒ² - Resistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "Q‰Á“o˜^ - Resistration"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "November 22, 2014"
 typeoutTextValues: '"", "Polymer", "Go", "GAS", "Other"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/gs1X7j", text: "å‚åŠ ç™»éŒ² - Reagistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "Q‰Á“o˜^ - Reagistration"}
 
 # About Block
 aboutTitle: "About GDG DevFest Kyoto 2014"
@@ -82,11 +82,11 @@ rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Kyoto Reseach Park"
+locationBlockTitle: "Location - ‰ïê"
+eventLocationName: "‹“sƒŠƒT[ƒ`ƒp[ƒN"
 eventLocationLink: "http://www.krp.co.jp/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Kyoto"
+eventStreetAddress: "§600-8813@‹“ss‰º‹‹æ’†“°›“ì’¬134"
+eventAddressLocality: "‹“s•{"
 eventAddressLocalityRegion: "Kyoto"
 eventPostalCode: ""
 eventAddressCountry: "Japan"
