@@ -55,7 +55,7 @@ eventDate: "November 22, 2014"
 typeoutTextValues: '"", "Polymer", "Go", "GAS", "Other"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/gs1X7j", text: "Reagistration"}
+ - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Reagistration"}
 
 # About Block
 aboutTitle: "About GDG DevFest Kyoto 2014"
