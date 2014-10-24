@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
-# - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Registration"}
 rightNavigationButtons:
