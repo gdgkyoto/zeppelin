@@ -157,9 +157,9 @@ logisticsMapMobileCenterCoordinates: "34.995063, 135.739614"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Kyoto"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: '関西空港からはJRや私鉄をご利用ください。<a href="http://www.kansai-airport.or.jp/index.asp">airport website</a>.'}
+ - {title: "Public Transit", information: '日本各地からは、Google Mapなどの乗り換えの検索が便利です。お試しください。'}
+ - {title: "Hotels", information: '京都にはたくさんの宿泊施設がありますが、連休のために混み合う可能性が高く、お早めの宿の確保をお勧めします。'}
 directionDetailsWideCards:
  -
   title: "Questions?"
