@@ -73,4 +73,16 @@
   ribbon:social: 
     - {name: "google-plus", link: "https://google.com/"}
     - {name: "site", link: "http://"}
+- 
+  id: 9
+  name: "Fumiko"
+  surname: "Kurano"
+  company: "GDG Kyoto"
+  title: "GDG Kyoto"
+  bio: "Speaker of Google Maps."
+  thumbnailUrl: FumikoKurano.png
+  rockstar: true
+  ribbon:social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/109210234574376106012/"}
+    - {name: "site", link: "http://"}
     

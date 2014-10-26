@@ -69,7 +69,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "60", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "7", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "1", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
