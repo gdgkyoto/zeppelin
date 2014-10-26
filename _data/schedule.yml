@@ -43,11 +43,6 @@
         endTime: "13:45",
         sessionIds: [003]
     }
-	- {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
-    }
     - {
     	startTime: "14:00",
     	endTime: "15:00",
