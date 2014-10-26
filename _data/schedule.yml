@@ -21,7 +21,6 @@
     	endTime: "13:30",
     	sessionIds: [307]
     }
-	
 - 
   date: "2014-10-25"
   dateReadable: "October 25"
@@ -45,11 +44,6 @@
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
-    }
-	- {
     	startTime: "14:00",
     	endTime: "15:00",
     	sessionIds: [503]
