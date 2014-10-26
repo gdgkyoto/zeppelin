@@ -21,6 +21,12 @@
     	endTime: "13:30",
     	sessionIds: [307]
     }
+	- {
+        startTime: "13:30",
+        endTime: "14:00",
+        sessionIds: [003]
+    }
+	
 - 
   date: "2014-10-25"
   dateReadable: "October 25"
