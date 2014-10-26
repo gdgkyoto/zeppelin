@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Kyoto 2014 - <typeout>"
 eventDate: "November 22, 2014"
-typeoutTextValues: '"", "Polymer", "Go", "GAS", "Other"'
+typeoutTextValues: '"", "Polymer", "Go", "GAS", "Google Maps"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Registration"}
