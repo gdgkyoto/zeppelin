@@ -16,9 +16,9 @@
   surname: "Yokoyama"
   company: "GDG Tyugoku"
   title: "GDG Tyugoku Manager"
-  bio: 'Speaker of Go'
-  thumbnailUrl: Speakers.png
-  #thumbnailUrl: Yokoyama.jpg
+  bio: 'Golang Cafeを通じて知ったハマりどころ、勘違いしやすいポイント、これを知っておいた方がいいことなどを紹介します。'
+  #thumbnailUrl: Speakers.png
+  thumbnailUrl: TakeshiYokoyama.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TakashiYokoyama/"}
