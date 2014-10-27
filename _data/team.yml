@@ -53,10 +53,22 @@
 - 
   id: 7
   name: ""
-  surname: "Shybanov"
+  surname: "Takahashi"
   title: ""
   thumbnailUrl: Takahashi.jpg
   subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/"}
+    #- {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Rie"
+  surname: "Kanetaka"
+  title: ""
+  thumbnailUrl: RieKanetaka.jpg
+  subTeam: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/"}
     #- {name: "site", link: "http://olostan.name/"}
