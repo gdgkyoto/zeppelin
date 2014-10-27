@@ -22,9 +22,9 @@
     	sessionIds: [307]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003, 404, 004]
     }
 - 
   date: "2014-10-25"
