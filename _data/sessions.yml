@@ -37,9 +37,9 @@
   title: "GASのAdd-onについて (仮)"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [7]
   language: jp
-  complexity: "7"
+  complexity: ""
 -
   id: 005
   title: "GAS"
