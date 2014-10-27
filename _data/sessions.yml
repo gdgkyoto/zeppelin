@@ -58,9 +58,9 @@
   complexity: ""
 -
   id: 007
-  title: "Go"
-  description: ""
+  title: "Go言語入門者がWebアプリケーションをGo言語で作るまでの話"
+  description: "Go言語入門編としてWebアプリケーションをGo言語で書いて動かすまでの道のりを紹介します。"
   subtype: presentation
   speakers: [6]
   language: jp
-  complexity: ""
+  complexity: "Beginner"
