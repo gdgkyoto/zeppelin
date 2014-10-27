@@ -34,17 +34,33 @@
   complexity: "Expert"
 -
   id: 004
-  title: ""
+  title: "GASのAdd-onについて (仮)"
   description: ""
-  subtype: keynote
+  subtype: presentation
   speakers: []
   language: jp
-  complexity: "Beginner"
+  complexity: "7"
 -
   id: 005
-  title: ""
+  title: "GAS"
   description: ""
-  subtype: keynote
-  speakers: []
+  subtype: presentation
+  speakers: [8]
   language: jp
   complexity: "Expert"
+-
+  id: 006
+  title: "Go"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+  language: jp
+  complexity: ""
+-
+  id: 007
+  title: "Go"
+  description: ""
+  subtype: presentation
+  speakers: [6]
+  language: jp
+  complexity: ""
