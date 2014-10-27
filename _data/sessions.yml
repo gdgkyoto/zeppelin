@@ -19,7 +19,7 @@
 -
   id: 002
   title: "Google Map API とGoogle Web Speech API, Street Viewの簡単な一例"
-  description: "Google Map API とGoogle Web Speech API, Street Viewの簡単な一例"
+  description: "Google Web Speech APIで目的地を入力し、Google Map上にルートを表示させ、ルート上のステップを　Street Viewにも表示させる簡単な例を説明します。"
   subtype: presentation
   speakers: [9]
   language: jp
@@ -37,7 +37,7 @@
   title: ""
   description: ""
   subtype: keynote
-  speakers: [6]
+  speakers: []
   language: jp
   complexity: "Beginner"
 -
@@ -45,6 +45,6 @@
   title: ""
   description: ""
   subtype: keynote
-  speakers: [7]
-  language: en
+  speakers: []
+  language: jp
   complexity: "Expert"
