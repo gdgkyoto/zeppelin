@@ -40,7 +40,7 @@
   surname: ""
   company: ""
   title: ""
-  bio: "GDG Kobe Staff"
+  bio: ""
   thumbnailUrl: Speakers.png
   #thumbnailUrl: Pasta-K.jpg
   rockstar: true
@@ -79,7 +79,7 @@
   surname: "Kurano"
   company: "GDG Kyoto"
   title: "GDG Kyoto"
-  bio: "Speaker of Google Maps."
+  bio: "Speaker of Google Maps. GDG Kyoto Manager"
   thumbnailUrl: FumikoKurano.jpg
   rockstar: true
   ribbon:social: 
