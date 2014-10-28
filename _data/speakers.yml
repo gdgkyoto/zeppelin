@@ -16,7 +16,7 @@
   surname: "Yokoyama"
   company: "GDG Chugoku"
   title: "GDG Chugoku Manager"
-  bio: ''
+  bio: 'プログラマからフリーランスになり、現在は公務員'
   #thumbnailUrl: Speakers.png
   thumbnailUrl: TakeshiYokoyama.jpg
   rockstar: true
@@ -29,8 +29,7 @@
   company: "GDG Kobe"
   title: "GDG Kobe Staff"
   bio: "Speaker of Go."
-  thumbnailUrl: Speakers.png
-  #thumbnailUrl: Noda.jpg
+  thumbnailUrl: SatoshiNoda.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/100418617468747340299/"}
