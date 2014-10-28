@@ -50,8 +50,8 @@
   complexity: "Expert"
 -
   id: 006
-  title: "Go"
-  description: ""
+  title: "これからのGoの話をしよう(仮)"
+  description: "なるほどGo言語って割と使いやすい！でも、何に使えばいいの？と思ってる人向けに、Go言語でどんなことが出来るか紹介します。"
   subtype: presentation
   speakers: [5]
   language: jp
