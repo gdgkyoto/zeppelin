@@ -26,7 +26,7 @@
   complexity: "Beginner"
 -
   id: 003
-  title: "Golangのはまりどころ (仮）"
+  title: "あなたが、Goについて、多分知らない10のこと。"
   description: "Golang Cafeを通じて知ったハマりどころ、勘違いしやすいポイント、これを知っておいた方がいいことなどを紹介します。"
   subtype: presentation
   speakers: [4]
