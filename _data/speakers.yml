@@ -58,13 +58,12 @@
   surname: "Kusaka"
   company: "株式会社クエステトラ"
   title: "KyotoGASとりまとめ、FxUG Kyoto Staff"
-  bio: "Speaker of KyotoGAS."
-  thumbnailUrl: Speakers.png
-  #thumbnailUrl: TuyoshiKusaka.jpg
+  bio: "Google Apps Script は2012年から利用。他の言語経験：ActionScript、Java、VisualBasic 等。もともと開発者ですが、会社での役割は営業 兼 SE 兼 コンサル など自社製品を補完する処理を Google Apps Script でいくつか作成したりも。"
+  thumbnailUrl: TsuyoshiKusaka.jpg
   rockstar: true
   ribbon:social: 
-    - {name: "google-plus", link: "https://google.com/"}
-    - {name: "site", link: "http://"}
+    - {name: "google-plus", link: "https://google.com/+TsuyoshiKusaka/"}
+    #- {name: "site", link: "http://"}
 - 
   id: 8
   name: "Jun"
