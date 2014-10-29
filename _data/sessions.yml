@@ -35,11 +35,11 @@
 -
   id: 004
   title: "GASのAdd-onについて (仮)"
-  description: ""
+  description: "GAS の概要、add-on の概要やその作り方、自分で作ってわかったことなどをお話します。"
   subtype: presentation
   speakers: [7]
   language: jp
-  complexity: ""
+  complexity: "Intermediate (中級)"
 -
   id: 005
   title: "GAS"
