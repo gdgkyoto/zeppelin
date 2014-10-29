@@ -55,7 +55,7 @@
   subtype: presentation
   speakers: [5]
   language: jp
-  complexity: ""
+  complexity: "Pre-intermediate (準中級)"
 -
   id: 007
   title: "Go言語入門者がWebアプリケーションをGo言語で作るまでの話"
