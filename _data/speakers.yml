@@ -62,7 +62,7 @@
   thumbnailUrl: TsuyoshiKusaka.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "KyotoGAS", url: "https://sites.google.com/site/kyotogas/"}
+    - {abbr: "KyotoGAS", title: "KyotoGAS", url: "https://sites.google.com/site/kyotogas/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+TsuyoshiKusaka/"}
     #- {name: "site", link: "http://"}
