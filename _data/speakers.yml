@@ -8,6 +8,8 @@
   thumbnailUrl: Speakers.png
   #thumbnailUrl: Ochi.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/116129315311979954039/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
 - 
@@ -20,6 +22,8 @@
   #thumbnailUrl: Speakers.png
   thumbnailUrl: TakeshiYokoyama.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110177155288519600576/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+TakashiYokoyama/"}
 - 
@@ -31,6 +35,8 @@
   bio: "Speaker of Go."
   thumbnailUrl: SatoshiNoda.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106414828378079312919/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/100418617468747340299/"}
 - 
