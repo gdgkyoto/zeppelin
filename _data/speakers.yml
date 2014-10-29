@@ -56,11 +56,11 @@
   id: 7
   name: "Tuyoshi"
   surname: "Kusaka"
-  company: "KyotoGAS"
-  title: "KyotoGAS"
+  company: "株式会社クエステトラ"
+  title: "KyotoGASとりまとめ、FxUG Kyoto Staff"
   bio: "Speaker of KyotoGAS."
   thumbnailUrl: Speakers.png
-  #thumbnailUrl: Kusaka.jpg
+  #thumbnailUrl: TuyoshiKusaka.jpg
   rockstar: true
   ribbon:social: 
     - {name: "google-plus", link: "https://google.com/"}
