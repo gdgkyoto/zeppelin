@@ -81,6 +81,7 @@
   bio: "UI/UX 設計を生業とする、臨床検査技師の経歴を持つフリーランスエンジニア。"
   thumbnailUrl: FumikoKurano.jpg
   rockstar: true
-  ribbon:social: 
+  ribbon:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
     - {name: "site", link: "http://ofuku.blog.so-net.ne.jp/"}
