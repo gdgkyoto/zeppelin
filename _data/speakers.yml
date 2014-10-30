@@ -76,6 +76,8 @@
   thumbnailUrl: Speakers.png
   #thumbnailUrl: Yamamoto.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "KyotoGAS", title: "KyotoGAS", url: "https://sites.google.com/site/kyotogas/"}
   ribbon:social: 
     - {name: "google-plus", link: "https://google.com/"}
     - {name: "site", link: "http://"}
