@@ -34,7 +34,7 @@
   complexity: "Expert"
 -
   id: 004
-  title: "GASのAdd-onについて (仮)"
+  title: "Google Apps Script（GAS）で作る Google Drive add-on について"
   description: "GAS の概要、add-on の概要やその作り方、自分で作ってわかったことなどをお話します。"
   subtype: presentation
   speakers: [7]
