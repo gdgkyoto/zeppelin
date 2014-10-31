@@ -1,16 +1,16 @@
 -
   id: 307
-  title: "Break"
+  title: "休憩 - Break"
   place: "Room"
   service: true
 -
   id: 107
-  title: "Registration"
+  title: "受付 - Registration"
   place: "Information"
   service: true
 -
   id: 200
-  title: "Information of KRP"
+  title: "Information of KRP by Mr.Terado"
   place: "Room"
   service: true
 -
