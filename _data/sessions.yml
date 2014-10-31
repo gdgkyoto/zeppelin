@@ -57,7 +57,7 @@
   subtype: presentation
   speakers: [8]
   language: jp
-  complexity: "Expert"
+  complexity: ""
 -
   id: 006
   title: "これからのGoの話をしよう(仮)"
