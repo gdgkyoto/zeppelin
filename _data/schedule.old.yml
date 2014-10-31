@@ -2,24 +2,34 @@
   date: "2014-11-22"
   dateReadable: "December 22"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "Pplymer, Go, GAS, Google Maps", color: "#90be4e"}
     #- {title: "Web & Cloud", color: "#03a9f4"}
     #- {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "13:00",
+    	endTime: "13:10",
     	sessionIds: [002]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+    	startTime: "13:10",
+    	endTime: "13:25",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:00",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "14:05",
+        endTime: "14:35",
         sessionIds: [003]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [004]
+    	startTime: "14:35",
+    	endTime: "14:50",
+    	sessionIds: [307]
     }
     - {
         startTime: "13:00",
