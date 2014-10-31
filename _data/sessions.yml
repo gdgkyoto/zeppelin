@@ -4,6 +4,16 @@
   place: "Room"
   service: true
 -
+  id: 107
+  title: "Registration"
+  place: "Information"
+  service: true
+-
+  id: 200
+  title: "Information of KRP"
+  place: "Room"
+  service: true
+-
   id: 503
   title: "Break"
   place: "room"
