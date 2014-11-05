@@ -2,7 +2,7 @@
   id: 0
   name: "Fumiko"
   surname: "Kurano"
-  title: "Event Manager"
+  title: "Event Manager and Speaker, GDG Kyoto Organizer"
   thumbnailUrl: FumikoKurano.jpg
   team: true
   ribbon: 
@@ -94,7 +94,7 @@
   id: 7
   name: "Tsuyoshi"
   surname: "Kusaka"
-  title: "KyotoGAS とりまとめ"
+  title: "Speaker and KyotoGAS とりまとめ"
   thumbnailUrl: TsuyoshiKusaka.jpg
   team: true
   #subTeam: true
@@ -108,7 +108,7 @@
   id: 8
   name: "Jun"
   surname: "Yamamoto"
-  title: "KyotoGAS Staff"
+  title: "Speaker and KyotoGAS Staff"
   thumbnailUrl: JunYamamoto.jpg
   team: true
   #subTeam: true
