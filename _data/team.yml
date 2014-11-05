@@ -8,7 +8,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/109210234574376106012/"}
+    - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
     #- {name: "twitter", link: "https://twitter.com/"}
     #- {name: "github", link: "https://github.com/"}
     - {name: "site", link: "http://http://ofuku.blog.so-net.ne.jp/"}
@@ -22,7 +22,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/117489125939940745994/"}
+    - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
     #- {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
@@ -34,7 +34,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/111410310972587296226/"}
+    - {name: "google-plus", link: "https://plus.google.com/111410310972587296226/"}
     #- {name: "twitter", link: "https://twitter.com/p1f"}
     #- {name: "site", link: "http://andrusiv.com/"}
 - 
@@ -47,7 +47,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ToruUENOYAMA/"}
+    - {name: "google-plus", link: "https://plus.google.com/+ToruUENOYAMA/"}
     #- {name: "twitter", link: "https://twitter.com/"}
     #- {name: "site", link: "http://andrusiv.com/"}
 - 
@@ -73,7 +73,7 @@
   team: true
   #subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/115807110276116926680/"}
+    - {name: "google-plus", link: "https://plus.google.com/115807110276116926680/"}
   #  - {name: "twitter", link: "https://twitter.com/"}
   #  - {name: "github", link: "https://github.com/"}
 - 
