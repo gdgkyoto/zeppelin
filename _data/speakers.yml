@@ -43,15 +43,15 @@
   id: 6
   name: "Pasta-K"
   surname: ""
-  company: ""
+  company: "Kyoto univ Microcomputer Club ( KMC) / Kyoto Creative Workshop"
   title: ""
-  bio: ""
-  thumbnailUrl: Speakers.png
-  #thumbnailUrl: Pasta-K.jpg
+  bio: "京大情報学科2回生。Nota.Incでエンジニアアルバイトをしています。今年度は京大マイコンクラブ広報という役職を仰せつかっておりますが、京大の学祭そっちのけで参加にに来ました。"
+  thumbnailUrl: Pastak.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com//"}
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+PastaK/"}
+    - {name: "twitter", link: "http://twitter.com/pastak"}
+    - {name: "github", link: "https://github.com/pastak"}
 - 
   id: 7
   name: "Tuyoshi"
