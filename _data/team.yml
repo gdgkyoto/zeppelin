@@ -42,47 +42,79 @@
   name: "Toru"
   surname: "Uenoyama"
   title: "GDG Kyoto Staff"
-  thumbnailUrl: NorikoTakiguchi.jpg
+  thumbnailUrl: ToruUenoyama.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/"}
-    #- {name: "twitter", link: "https://twitter.com/p1f"}
+    #- {name: "twitter", link: "https://twitter.com/"}
     #- {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
   name: "Keiko"
   surname: "Inoue"
   title: "GDG Kyoto Staff"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: KeikoInoe.jpg
   team: true
   #subTeam: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-  #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-  #  - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/"}
+  #  - {name: "twitter", link: "https://twitter.com/"}
+  #  - {name: "github", link: "https://github.com/"}
 - 
-  id: 7
-  name: ""
+  id: 5
+  name: "Miyuki"
   surname: "Takahashi"
-  title: ""
-  thumbnailUrl: Takahashi.jpg
-  subTeam: true
+  title: "GDG Kyoto Staff"
+  thumbnailUrl: MiyukiTakahashi.jpg
+  team: true
+  #subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/"}
-    #- {name: "site", link: "http://olostan.name/"}
+  #  - {name: "twitter", link: "https://twitter.com/"}
+  #  - {name: "github", link: "https://github.com/"}
 - 
-  id: 8
+  id: 6
   name: "Rie"
   surname: "Kanetaka"
-  title: ""
+  title: "volunteer staff"
   thumbnailUrl: RieKanetaka.jpg
-  subTeam: true
+  team: true
+  #subTeam: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/"}
-    #- {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/"}
+  #  - {name: "twitter", link: "https://twitter.com/"}
+  #  - {name: "github", link: "https://github.com/"}
+- 
+  id: 7
+  name: "Tsuyoshi"
+  surname: "Kusaka"
+  title: "KyotoGAS とりまとめ"
+  thumbnailUrl: TsuyoshiKusaka.jpg
+  team: true
+  #subTeam: true
+  ribbon: 
+    - {abbr: "KyotoGAS", title: "KyotoGAS"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+  #  - {name: "twitter", link: "https://twitter.com/"}
+  #  - {name: "github", link: "https://github.com/"}
+- 
+  id: 8
+  name: "Jun"
+  surname: "Yamamoto"
+  title: "KyotoGAS Staff"
+  thumbnailUrl: JunYamamoto.jpg
+  team: true
+  #subTeam: true
+  ribbon: 
+    - {abbr: "KyotoGAS", title: "KyotoGAS"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+  #  - {name: "twitter", link: "https://twitter.com/"}
+  #  - {name: "github", link: "https://github.com/"}
