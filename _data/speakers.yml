@@ -43,11 +43,13 @@
   id: 6
   name: "Pasta-K"
   surname: ""
-  company: "Kyoto univ Microcomputer Club ( KMC) / Kyoto Creative Workshop"
-  title: ""
+  company: "Kyoto univ Microcomputer Club (KMC) / Kyoto Creative Workshop"
+  title: "京大マイコンクラブ / 京都クリエイティブワークショップ "
   bio: "京大情報学科2回生。Nota.Incでエンジニアアルバイトをしています。今年度は京大マイコンクラブ広報という役職を仰せつかっておりますが、京大の学祭そっちのけで参加にに来ました。"
   thumbnailUrl: Pastak.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "KMC", title: "Kyoto univ Microcomputer", url: ""}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PastaK/"}
     - {name: "twitter", link: "http://twitter.com/pastak"}
