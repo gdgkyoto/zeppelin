@@ -38,12 +38,26 @@
     #- {name: "twitter", link: "https://twitter.com/p1f"}
     #- {name: "site", link: "http://andrusiv.com/"}
 - 
+  id: 3
+  name: "Toru"
+  surname: "Uenoyama"
+  title: "GDG Kyoto Staff"
+  thumbnailUrl: NorikoTakiguchi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/"}
+    #- {name: "twitter", link: "https://twitter.com/p1f"}
+    #- {name: "site", link: "http://andrusiv.com/"}
+- 
   id: 4
   name: "Keiko"
   surname: "Inoue"
   title: "GDG Kyoto Staff"
   thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  team: true
+  #subTeam: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
