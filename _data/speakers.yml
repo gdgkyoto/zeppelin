@@ -49,7 +49,7 @@
   thumbnailUrl: Pastak.jpg
   rockstar: true
   ribbon:
-    - {abbr: "KMC", title: "Kyoto univ Microcomputer", url: ""}
+    - {abbr: "KMC", title: "Kyoto univ Microcomputer", url: "http://kmc.jp"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PastaK/"}
     - {name: "twitter", link: "http://twitter.com/pastak"}
