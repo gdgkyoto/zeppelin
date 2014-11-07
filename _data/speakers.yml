@@ -72,9 +72,9 @@
   id: 8
   name: "Jun"
   surname: "Yamamoto"
-  company: "KyotoGAS"
+  company: "株式会社クエスエトラ"
   title: "KyotoGAS"
-  bio: "Speaker of KyotoGAS."
+  bio: "Webデザイナー。Google Apps Script は仕事と遊びにちょこちょこ使っています。"
   thumbnailUrl: Speakers.png
   #thumbnailUrl: Yamamoto.jpg
   rockstar: true
