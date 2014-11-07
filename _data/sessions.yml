@@ -52,12 +52,12 @@
   complexity: "Intermediate (中級)"
 -
   id: 005
-  title: "GAS"
-  description: ""
+  title: "Google Apps Script を使ってみた"
+  description: "WebデザイナーがGoogle Apps Acriptを使ってみたら、こんなんできました。"
   subtype: presentation
   speakers: [8]
   language: jp
-  complexity: ""
+  complexity: "Beginner"
 -
   id: 006
   title: "これからのGoの話をしよう"
