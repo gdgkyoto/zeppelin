@@ -20,12 +20,12 @@
   service: true
 -
   id: 001
-  title: "Polymer"
-  description: "This session is Polymer."
+  title: "はじめてのPolymer 〜Polymer、Web Componentsって何？〜"
+  description: "PolymerとはGoogle I/O 2013に発表されたJavaScript UIフレームワークです。今年のI/OでもWeb Componentsと共に取り上げられ、Material Designをウェブ上で実現できるなど、Googleの中心的な技術となっています。「今ウェブ開発者が一番学ばなければいけない技術」であるPolymerとその関連技術の概要を紹介します。"
   subtype: presentation
   speakers: [3]
   language: jp
-  complexity: ""
+  complexity: "Beginner"
 -
   id: 002
   title: "Google Map API とGoogle Web Speech API, Street Viewの簡単な一例"
