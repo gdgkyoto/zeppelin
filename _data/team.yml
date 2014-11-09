@@ -17,7 +17,7 @@
   name: "Yoji"
   surname: "Ochi"
   title: "Speaker and GDG Kyoto Staff"
-  thumbnailUrl: YojiOchi.jpg
+  thumbnailUrl: YojiOchi.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
