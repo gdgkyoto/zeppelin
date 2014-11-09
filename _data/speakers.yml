@@ -6,7 +6,7 @@
   title: "GDG Kyoto Staff"
   bio: "Speaker of Polymer."
   #thumbnailUrl: Speakers.png
-  thumbnailUrl: YojiOchi.jpg
+  thumbnailUrl: YojiOchi.png
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/116129315311979954039/"}
