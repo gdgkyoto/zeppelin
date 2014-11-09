@@ -2,10 +2,9 @@
   id: 3
   name: "Yoji"
   surname: "Ochi"
-  company: "GDG Kyoto"
+  company: "近畿大学"
   title: "GDG Kyoto Staff"
-  bio: "Speaker of Polymer."
-  #thumbnailUrl: Speakers.png
+  bio: "GWTをこよなく愛する教育＆研究系Developer"
   thumbnailUrl: YojiOchi.png
   rockstar: true
   ribbon:
