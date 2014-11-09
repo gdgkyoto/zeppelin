@@ -28,10 +28,11 @@
     - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
 - 
   id: 2
-  name: "Noeiko"
+  name: "Noriko"
   surname: "Takiguchi"
   title: "GDG Kyoto Staff"
-  thumbnailUrl: NorikoTakiguchi.jpg
+  #thumbnailUrl: NorikoTakiguchi.jpg
+  thumbnailUrl: Speaker.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -57,7 +58,7 @@
   name: "Keiko"
   surname: "Inoue"
   title: "GDG Kyoto Staff"
-  thumbnailUrl: KeikoInoe.jpg
+  thumbnailUrl: KeikoInoue.jpg
   team: true
   #subTeam: true
   ribbon: 
