@@ -92,10 +92,10 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
+    - {name: "site", link: "http://cch-lab.com/"}
     - {name: "google-plus", link: "https://plus.google.com/104181064104578989964/"}
   #  - {name: "twitter", link: "https://twitter.com/"}
   #  - {name: "github", link: "https://github.com/"}
-    - {name: "site", link: "http://cch-lab.com/"}
 - 
   id: 7
   name: "Tsuyoshi"
