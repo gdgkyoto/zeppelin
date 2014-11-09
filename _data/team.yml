@@ -10,7 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
     #- {name: "twitter", link: "https://twitter.com/"}
-    #- {name: "github", link: "https://github.com/"}
+    - {name: "github", link: "https://github.com/"}
     - {name: "site", link: "http://http://ofuku.blog.so-net.ne.jp/"}
 - 
   id: 1
