@@ -23,9 +23,9 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
-    - {name: "twitter", link: "https://twitter.com/oyouji"}
-    - {name: "github", link: "https://github.com/ochilab"}
-    - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
+   # - {name: "twitter", link: "https://twitter.com/oyouji"}
+   # - {name: "github", link: "https://github.com/ochilab"}
+   # - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
 - 
   id: 2
   name: "Noeiko"
@@ -92,7 +92,7 @@
     - {name: "google-plus", link: "https://plus.google.com/104181064104578989964/"}
   #  - {name: "twitter", link: "https://twitter.com/"}
   #  - {name: "github", link: "https://github.com/"}
-  - {name: "site", link: "http://cch-lab.com/"}
+  #- {name: "site", link: "http://cch-lab.com/"}
 - 
   id: 7
   name: "Tsuyoshi"
