@@ -84,7 +84,7 @@
   id: 6
   name: "Rie"
   surname: "Kanetaka"
-  title: "volunteer staff"
+  title: "Volunteer staff"
   thumbnailUrl: RieKanetaka.png
   team: true
   #subTeam: true
@@ -94,7 +94,7 @@
     - {name: "google-plus", link: "https://plus.google.com/104181064104578989964/"}
   #  - {name: "twitter", link: "https://twitter.com/"}
   #  - {name: "github", link: "https://github.com/"}
-  #- {name: "site", link: "http://cch-lab.com/"}
+    - {name: "site", link: "http://cch-lab.com/"}
 - 
   id: 7
   name: "Tsuyoshi"
