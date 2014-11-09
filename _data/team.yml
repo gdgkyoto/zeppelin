@@ -32,7 +32,7 @@
   surname: "Takiguchi"
   title: "GDG Kyoto Staff"
   #thumbnailUrl: NorikoTakiguchi.jpg
-  thumbnailUrl: Speaker.png
+  thumbnailUrl: Speaker.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -72,7 +72,8 @@
   name: "Miyuki"
   surname: "Takahashi"
   title: "GDG Kyoto Staff"
-  thumbnailUrl: MiyukiTakahashi.jpg
+  #thumbnailUrl: MiyukiTakahashi.jpg
+  thumbnailUrl: Speaker.jpg
   team: true
   #subTeam: true
   social: 
@@ -113,7 +114,7 @@
   name: "Jun"
   surname: "Yamamoto"
   title: "Speaker and KyotoGAS Staff"
-  thumbnailUrl: JunYamamoto.jpg
+  thumbnailUrl: JuneYamamoto.jpg
   team: true
   #subTeam: true
   ribbon: 
