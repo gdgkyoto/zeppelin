@@ -23,7 +23,9 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
-    #- {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/oyouji"}
+    - {name: "github", link: "https://github.com/ochilab"}
+    - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
 - 
   id: 2
   name: "Noeiko"
