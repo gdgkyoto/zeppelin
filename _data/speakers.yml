@@ -5,16 +5,16 @@
   company: "GDG Kyoto"
   title: "GDG Kyoto Staff"
   bio: "Speaker of Polymer."
-  thumbnailUrl: Speakers.png
-  #thumbnailUrl: Ochi.jpg
+  #thumbnailUrl: Speakers.png
+  thumbnailUrl: YojiOchi.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/116129315311979954039/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
-   # - {name: "twitter", link: "https://twitter.com/oyouji"}
-   # - {name: "github", link: "https://github.com/ochilab"}
-   # - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
+    - {name: "twitter", link: "https://twitter.com/oyouji"}
+    - {name: "github", link: "https://github.com/ochilab"}
+    - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
 - 
   id: 4
   name: "Takashi"
