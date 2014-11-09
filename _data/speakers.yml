@@ -12,6 +12,9 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/116129315311979954039/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
+    - {name: "twitter", link: "https://twitter.com/oyouji"}
+    - {name: "github", link: "https://github.com/ochilab"}
+    - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
 - 
   id: 4
   name: "Takashi"
@@ -95,4 +98,5 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/116129315311979954039/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
+    - {name: "github", link: "https://github.com/ofuku3f"}
     - {name: "site", link: "http://ofuku.blog.so-net.ne.jp/"}
