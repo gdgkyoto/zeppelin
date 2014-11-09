@@ -8,10 +8,10 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
     #- {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
     - {name: "site", link: "http://http://ofuku.blog.so-net.ne.jp/"}
+    - {name: "github", link: "https://github.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/109210234574376106012/"}
 - 
   id: 1
   name: "Yoji"
@@ -22,10 +22,11 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
-    - {name: "twitter", link: "https://twitter.com/oyouji"}
-    - {name: "github", link: "https://github.com/ochilab"}
     - {name: "site", link: "http://ochi-lab.blogspot.jp/"}
+    - {name: "github", link: "https://github.com/ochilab"}
+    - {name: "twitter", link: "https://twitter.com/oyouji"}
+    - {name: "google-plus", link: "https://plus.google.com/117489125939940745994/"}
+
 - 
   id: 2
   name: "Noriko"
