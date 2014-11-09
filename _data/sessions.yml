@@ -4,6 +4,11 @@
   place: "Room"
   service: true
 -
+  id: 207
+  title: "予備時間 - Break"
+  place: "Room"
+  service: true
+-
   id: 107
   title: "受付 - Registration"
   place: "Information"
