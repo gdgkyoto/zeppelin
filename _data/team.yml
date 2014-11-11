@@ -32,8 +32,8 @@
   name: "Noriko"
   surname: "Takiguchi"
   title: "GDG Kyoto Staff"
-  #thumbnailUrl: NorikoTakiguchi.jpg
-  thumbnailUrl: Speakers.png
+  thumbnailUrl: NorikoTakiguchi.jpg
+  #thumbnailUrl: Speakers.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
