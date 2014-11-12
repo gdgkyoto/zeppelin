@@ -73,8 +73,8 @@
   name: "Miyuki"
   surname: "Takahashi"
   title: "GDG Kyoto Staff"
-  #thumbnailUrl: MiyukiTakahashi.jpg
-  thumbnailUrl: Speakers.png
+  thumbnailUrl: MiyukiTakahashi.jpg
+  #thumbnailUrl: Speakers.png
   team: true
   #subTeam: true
   social: 
