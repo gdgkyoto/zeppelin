@@ -14,6 +14,11 @@
   place: "Information"
   service: true
 -
+  id: 100
+  title: "挨拶 - A greeting"
+  place: "room"
+  service: true
+-
   id: 200
   title: "Information of KRP by Mr.Terado"
   place: "Room"
