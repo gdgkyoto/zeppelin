@@ -6,10 +6,15 @@
     #- {title: "Web & Cloud", color: "#03a9f4"}
     #- {title: "Community", color: "#e91e63"}
   timeslots:
+      - {
+    	startTime: "12:30",
+    	endTime: "13:00",
+    	sessionIds: [107]
+    }
     - {
     	startTime: "13:00",
     	endTime: "13:10",
-    	sessionIds: [107]
+    	sessionIds: [100]
     }
     - {
     	startTime: "13:10",
