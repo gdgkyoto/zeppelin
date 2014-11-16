@@ -45,9 +45,11 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Registration"}
+ - {link: "http://goo.gl/W5r8L3", text: "Registration"}
 rightNavigationButtons:
  - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Registration"}
-
+ - {link: "http://goo.gl/W5r8L3", text: "Registration"}
+ 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Kyoto 2014 - <typeout>"
@@ -56,6 +58,7 @@ typeoutTextValues: '"", "Polymer", "Go", "GAS", "Google Maps"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://goo.gl/gs1X7j", text: "参加登録 - Registration"}
+ - {link: "http://goo.gl/W5r8L3", text: "Registration"}
 
 # About Block
 aboutTitle: "About GDG DevFest Kyoto 2014"
