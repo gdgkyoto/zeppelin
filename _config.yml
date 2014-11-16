@@ -158,7 +158,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Kyoto"
 directionDetailsCards:
  - {title: "From the Airport", information: '関西空港からは、JRや私鉄をご利用ください。JRの特急はるかをご利用されると、乗り換えが無く便利です。<a href="http://www.kansai-airport.or.jp/index.asp">airport website</a>.'}
- - {title: "Public Transit", information: '日本各地からは、Google Mapなどの乗り換えの検索が便利です。お試しください。If you come from abroad, please refer to this Kyoto Reseach Park Area Map. http://www.krp.co.jp/english/access_to_krp/'}
+ - {title: "Public Transit", information: '日本各地からは、Google Mapなどの乗り換えの検索が便利です。お試しください。If you come from abroad, please refer to this Kyoto Reseach Park Area Map. http://goo.gl/a8PfYF'}
  - {title: "Hotels", information: '京都には、たくさんの宿泊施設がありますが、連休のために混み合う可能性が高く、お早めの宿の確保をお勧めします。'}
 #directionDetailsWideCards:
 # -
