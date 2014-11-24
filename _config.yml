@@ -43,12 +43,12 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
-bottomNavigationLinks:
- - {link: "http://goo.gl/gs1X7j", text: "参加登録 - 日本語"}
- - {link: "http://goo.gl/W5r8L3", text: "Registration - English"}
-rightNavigationButtons:
- - {link: "http://goo.gl/W5r8L3", text: "Registration - English"}
- - {link: "http://goo.gl/gs1X7j", text: "参加登録 - 日本語"}
+#bottomNavigationLinks:
+# - {link: "http://goo.gl/gs1X7j", text: "参加登録 - 日本語"}
+# - {link: "http://goo.gl/W5r8L3", text: "Registration - English"}
+#rightNavigationButtons:
+# - {link: "http://goo.gl/W5r8L3", text: "Registration - English"}
+# - {link: "http://goo.gl/gs1X7j", text: "参加登録 - 日本語"}
 
 # Hero Block
 heroImage: "hero.jpg"
